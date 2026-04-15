@@ -1,5 +1,5 @@
 # GIT repo
-git@github.com:metalshan/fresh-th-repo-17.git
+git@github.com:metalshan/-fresh-th-repo-20.git
 
 # Store
 horizon-anatta.myshopify.com
@@ -10,14 +10,11 @@ Battle Born Batteries
 # Theme Base
 Horizon
 
-# Task ID
-BB-00
-
 # Theme Name
-Paul-Test-BB02
+Paul-Test-BB01
 
 # Git Branch
-feat/branch-2
+feat/branch-1
 
 # Figma
 Homepage Desktop: https://www.figma.com/design/Sg1SeYLCpMTw3c6bXKdc5i/BBB-x-Anatta---Design-File?node-id=81-396&m=dev
@@ -34,8 +31,3 @@ Update these areas:
 2. Typography
 3. Preset sync — `"current"` and `"presets" > "Default"` must be identical
 
-# Acceptance Criteria
-- All given Color schemes are updated.
-- All typography settings updated (fonts, sizes, line heights, assignments, letter spacing, case)
-- `"current"` and `"presets" > "Default"` are identical
-- No changes to any file other than `config/settings_data.json`

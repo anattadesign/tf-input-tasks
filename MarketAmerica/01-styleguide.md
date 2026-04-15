@@ -1,5 +1,5 @@
 # GIT repo
-git@github.com:metalshan/fresh-th-repo-16.git
+git@github.com:metalshan/fresh-th-repo-21.git
 
 # Store
 horizon-anatta.myshopify.com
@@ -14,19 +14,18 @@ Horizon
 MA-00
 
 # Theme Name
-Paul-Test-MA04
+Paul-Test-MA02
 
 # Git Branch
-feat/branch-4
+feat/branch-2
 
 # Figma
-Home Page: https://www.figma.com/design/hiigVhzrIBoawVnInd7QOl/Market-America---Current-Site?node-id=2-1921&m=dev
+Home Page: https://www.figma.com/design/hiigVhzrIBoawVnInd7QOl/Market-America---Dev-POC?node-id=309-5183&m=dev
 
 # Task
-I do not have specific styleguide for this client. Hence giving you a reference of the home page figma file. You should take the reference of color schemes, typography etc and apply the Market America brand from Figma to `config/settings_data.json` only. Do NOT create or modify any other files.
+I've shared the figma of home page of Market America brand's website. Take it as a reference and create the appropriate styleguide for color schemes and font styls by taking all the references from figma.
 
-# Acceptance Criteria
-- All given Color schemes are updated.
-- All typography settings updated (fonts, sizes, line heights, assignments, letter spacing, case)
-- `"current"` and `"presets" > "Default"` are identical
-- No changes to any file other than `config/settings_data.json`
+Update these areas:
+1. Color schemes
+2. Typography
+3. Preset sync — `"current"` and `"presets" > "Default"` must be identical
