@@ -1,5 +1,5 @@
 # GIT repo
-git@github.com:metalshan/fresh-th-repo-21.git
+git@github.com:metalshan/fresh-th-repo-22.git
 
 # Store
 horizon-anatta.myshopify.com
@@ -14,10 +14,10 @@ Horizon
 MA-00
 
 # Theme Name
-Paul-Test-MA02
+Paul-Test-MA02_1
 
 # Git Branch
-feat/branch-2
+feat/branch-4
 
 # Figma
 Desktop: https://www.figma.com/design/hiigVhzrIBoawVnInd7QOl/Market-America---Dev-POC?node-id=309-5899&m=dev
