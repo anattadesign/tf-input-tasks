@@ -1,8 +1,8 @@
 # GIT repo
-git@github.com:metalshan/fresh-th-repo-23.git
+git@github.com:metalshan/fresh-th-repo-24.git
 
 # Store
-bb-anatta.myshopify.com
+anatta-ai.myshopify.com
 
 # Client
 Market America

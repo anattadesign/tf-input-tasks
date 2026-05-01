@@ -1,8 +1,8 @@
 # GIT repo
-git@github.com:metalshan/fresh-th-repo-22.git
+git@github.com:metalshan/fresh-th-repo-24.git
 
 # Store
-horizon-anatta.myshopify.com
+anatta-ai.myshopify.com
 
 # Client
 Market America
@@ -14,10 +14,10 @@ Horizon
 MA-00
 
 # Theme Name
-Paul-Test-MA02_1
+Paul-Test-MA01
 
 # Git Branch
-feat/branch-4
+feat/branch-1
 
 # Figma
 Desktop: https://www.figma.com/design/hiigVhzrIBoawVnInd7QOl/Market-America---Dev-POC?node-id=309-5211&m=dev
