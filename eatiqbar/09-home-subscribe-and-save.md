@@ -11,10 +11,10 @@ iQ Bar
 Horizon
 
 # Theme Name
-Paul-Test-IQ01
+Paul-Test-IQ02
 
 # Git Branch
-feat/branch-1
+feat/branch-2
 
 
 # Website Options

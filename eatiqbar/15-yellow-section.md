@@ -18,14 +18,14 @@ feat/branch-2
 
 
 # Website Options
-information-block-desktop:
+anytime-fuel-desktop:
   url: https://www.eatiqbar.com/
   viewport: 1440
   steps:
     - dismiss: ".klaviyo-close-form, [aria-label*='close' i], .cookie-banner button, #onetrust-accept-btn-handler"
     - extract: "#shopify-section-template--18458590937222__image_with_text_block_aspect_ratio_mJFNRB"
 
-information-block-mobile:
+anytime-fuel-mobile:
   url: https://www.eatiqbar.com/
   viewport: 390
   steps:
@@ -34,4 +34,5 @@ information-block-mobile:
 
 
 # Task
-A simple image-with-text information section. Build it responsively to match the captured design.
+This section is a information section in the page with images, heading, buttons & short texts. Build it responsively to match the captured design.
+
