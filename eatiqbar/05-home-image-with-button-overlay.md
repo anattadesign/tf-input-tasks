@@ -35,9 +35,3 @@ image-with-button-overlay-mobile:
 
 # Task
 This is a simple banner section: a background image with overlaid text content and a CTA button. Build it responsively to match the captured design.
-
-Reuse Horizon's existing `image-banner` / image-with-text-overlay style section. The captured layout should be composable from `text` and `button` blocks within an existing image-overlay section structure — do NOT introduce a new section type for something this simple.
-
-Configure block layout, content alignment, padding, typography, and overlay color/opacity to match the captured visuals.
-
-Do not copy product copy from eatiqbar.com — use Shopify-native placeholder text in default block settings so the merchant can rewrite via the theme editor. Captured screenshots are visual reference only.
