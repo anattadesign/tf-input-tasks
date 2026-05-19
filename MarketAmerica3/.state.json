@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "subtasks": [
+    {
+      "name": "01-styleguide",
+      "status": "completed",
+      "completedAt": "2026-05-18T18:42:36.377Z"
+    },
+    {
+      "name": "02-global-header",
+      "status": "completed",
+      "completedAt": "2026-05-18T19:24:20.481Z"
+    },
+    {
+      "name": "03-global-footer",
+      "status": "completed",
+      "completedAt": "2026-05-18T19:43:16.222Z"
+    },
+    {
+      "name": "04-hero",
+      "status": "completed",
+      "completedAt": "2026-05-18T20:07:34.929Z"
+    },
+    {
+      "name": "05-shop-by-category",
+      "status": "completed",
+      "completedAt": "2026-05-18T20:22:18.261Z"
+    },
+    {
+      "name": "06-shop-by-brand",
+      "status": "completed",
+      "completedAt": "2026-05-18T20:51:50.599Z"
+    },
+    {
+      "name": "07-power-picks",
+      "status": "completed",
+      "completedAt": "2026-05-18T21:20:07.526Z"
+    },
+    {
+      "name": "08-featured-in",
+      "status": "completed",
+      "completedAt": "2026-05-18T21:34:37.730Z"
+    },
+    {
+      "name": "09-product-carousel",
+      "status": "completed",
+      "completedAt": "2026-05-18T22:09:38.819Z"
+    },
+    {
+      "name": "10-about",
+      "status": "completed",
+      "completedAt": "2026-05-18T22:36:54.305Z"
+    },
+    {
+      "name": "12-plp-01",
+      "status": "completed",
+      "completedAt": "2026-05-18T23:22:35.255Z"
+    }
+  ],
+  "lastUpdated": "2026-05-18T23:22:35.255Z"
+}
