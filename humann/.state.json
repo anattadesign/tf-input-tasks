@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "subtasks": [
+    {
+      "name": "01-styleguide",
+      "status": "completed",
+      "completedAt": "2026-05-24T07:23:27.986Z"
+    },
+    {
+      "name": "02-global-header",
+      "status": "completed",
+      "completedAt": "2026-05-24T07:52:50.384Z"
+    },
+    {
+      "name": "03-global-footer",
+      "status": "completed",
+      "completedAt": "2026-05-24T08:12:43.640Z"
+    },
+    {
+      "name": "04-hero-search",
+      "status": "completed",
+      "completedAt": "2026-05-24T08:49:56.506Z"
+    },
+    {
+      "name": "05-ratings",
+      "status": "completed",
+      "completedAt": "2026-05-24T09:10:53.715Z"
+    },
+    {
+      "name": "06-3-keys",
+      "status": "completed",
+      "completedAt": "2026-05-24T09:34:41.167Z"
+    },
+    {
+      "name": "07-key-products",
+      "status": "completed",
+      "completedAt": "2026-05-24T09:51:38.901Z"
+    },
+    {
+      "name": "08-scientists",
+      "status": "completed",
+      "completedAt": "2026-05-24T12:01:44.943Z"
+    },
+    {
+      "name": "09-science-deep-dive",
+      "status": "completed",
+      "completedAt": "2026-05-24T12:48:03.805Z"
+    },
+    {
+      "name": "10-plp",
+      "status": "completed",
+      "completedAt": "2026-05-25T11:06:13.907Z"
+    },
+    {
+      "name": "10-plp-1",
+      "status": "completed",
+      "completedAt": "2026-05-28T07:48:07.652Z"
+    },
+    {
+      "name": "10-plp-2",
+      "status": "completed",
+      "completedAt": "2026-05-28T08:21:37.386Z"
+    }
+  ],
+  "lastUpdated": "2026-05-28T08:21:37.386Z"
+}

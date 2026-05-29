@@ -1,5 +1,5 @@
 # GIT repo
-git@github.com:metalshan/fresh-th-repo-27.git
+git@github.com:metalshan/fresh-th-repo-29.git
 
 # Store
 horizon-anatta.myshopify.com
@@ -11,10 +11,11 @@ Humann
 Horizon
 
 # Theme Name
-Paul-Test-Humann
+Paul-Test-Humann-3
 
 # Git Branch
-feat/branch-1
+feat/branch-3
+
 
 # Figma
 Desktop Footer: https://www.figma.com/design/dck34JJ3oIwiwoNtRkZ40b/Humann-UX---Phase-1?node-id=1650-12591&m=dev

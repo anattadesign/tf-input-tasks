@@ -1,29 +1,29 @@
 # GIT repo
-git@github.com:metalshan/fresh-th-repo-29.git
+git@github.com:metalshan/fresh-th-repo-30.git
 
 # Store
 horizon-anatta.myshopify.com
 
 # Client
-Humann
+Brunt
 
 # Theme Base
 Horizon
 
 # Theme Name
-Paul-Test-Humann-3
+Paul-Test-Brunt-28May
 
 # Git Branch
-feat/branch-3
+feat/branch-1
 
 # Figma
-Homepage Desktop: https://www.figma.com/design/dck34JJ3oIwiwoNtRkZ40b/Humann-UX---Phase-1?node-id=1507-6924&m=dev
+Homepage Desktop: https://www.figma.com/design/aOEXWebMexCM7TgY8pwHm2/Untitled?node-id=2-875&m=dev
 
 # Task
-I've shared the home page of Humann brand's website.
+I've shared the home page of Brunt brand's website.
 Create the appropriate styleguide for color schemes and font styls by taking all the references from figma.
 
-Apply the Humann brand from Figma to `config/settings_data.json` only. Do NOT create or modify any other files.
+Apply the Brunt brand from Figma to `config/settings_data.json` only. Do NOT create or modify any other files.
 
 Update these areas:
 1. Color schemes
